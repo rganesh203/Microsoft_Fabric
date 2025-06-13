@@ -14,7 +14,7 @@ Analyzing data
 Collaboration and sharing
 Before we get started with the practical step-by-step guide to Microsoft Fabric, let’s lay some foundations.
 
-What is Microsoft Fabric?
+#What is Microsoft Fabric?
 Microsoft Fabric is a comprehensive data management and analytics platform that unifies the entire data lifecycle within the Microsoft ecosystem. It was designed to meet the demands of enterprises by simplifying processes like:
 
 Data ingestion
