@@ -1,0 +1,22 @@
+📘 What is Microsoft Fabric?
+An Overview of the Unified Analytics Platform
+
+🔍 Introduction
+Microsoft Fabric is an all-in-one analytics platform that unifies data movement, data engineering, data science, real-time analytics, and business intelligence (BI) — all built on OneLake, a single, secure data lake for the entire organization.
+
+It is the evolution of the modern data stack combining technologies from Power BI, Azure Synapse Analytics, and Azure Data Factory into a SaaS-based experience.
+
+🧱 Core Components of Microsoft Fabric
+Component	Description
+OneLake	The unified data lake storage that underpins all Fabric workloads
+Lakehouse	Combines the scalability of a data lake with the usability of a data warehouse
+Warehouse	Traditional SQL data warehouse experience for BI workloads
+Data Factory	Visual data pipeline orchestration and transformation (ETL/ELT)
+Notebooks	Interactive development environment using Spark for data science and engineering
+Real-Time Analytics	Analyze streaming data at low latency using KQL-based engines
+Power BI	Unified experience for data visualization and reporting
+🎯 Key Benefits
+Unified platform eliminates the need to stitch multiple tools
+Built-in governance, security, and compliance
+Deep integration with Microsoft 365 and Azure ecosystem
+Easy collaboration across business and technical teams
